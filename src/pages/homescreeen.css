@@ -1,0 +1,11 @@
+.user-list {
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    place-content: center;
+  }
+
+.bg{
+    background-color: #0088fa;
+  
+}
